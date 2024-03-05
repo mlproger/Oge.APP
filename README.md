@@ -1,16 +1,10 @@
-# n_n
+# Oge.APP
 
-A new Flutter project.
+Приложение для подготовки к ОГЭ по обзествознанию
 
-## Getting Started
+## Что сделано
 
-This project is a starting point for a Flutter application.
+*В работе над проектом мною были применены технологии кроссплатформенной разработки с помощью фреймворка flutter
+*Был реализован небольшой web сервер с помощью фреймворка Falsk
+*Использовал технологии машинного обучения и познакимлся с алгоритмоми семантического анализа текста
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
