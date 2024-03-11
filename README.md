@@ -2,8 +2,8 @@
 
 Приложение для подготовки к ОГЭ по обзествознанию
 
+![34dc39c5-7abd-403f-9be5-cf6029575866](https://github.com/mlproger/Oge.APP/assets/78304281/4fb9df96-5e2d-44f8-a13e-84dc01e2a68f)
 
-https://github.com/mlproger/Oge.APP/assets/78304281/52aed64f-0953-4bb1-9375-0c524b1ed148
 
 
 ## Что сделано
